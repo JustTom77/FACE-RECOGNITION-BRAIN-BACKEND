@@ -1,4 +1,4 @@
-# SmartBrain-api - v1
+#FACE-RECOGNITION-BRAIN-BACKEND
 Final project for ZTM course
 
 1. Clone this repo
